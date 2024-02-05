@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "f1_eTelemetry", "f1_eTelemetry.csproj", "{5067675D-8334-418C-89D4-1376822E12DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BA50A25F-012D-490A-B602-9A9112667D1A}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Éléments de solution", "Éléments de solution", "{7F8EE528-C7C2-4BED-99EC-8BE32A7AD6A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		eTelemetry V0.1|Any CPU = eTelemetry V0.1|Any CPU
+		eTelemetry V0.1|x64 = eTelemetry V0.1|x64
+		eTelemetry v0.2|Any CPU = eTelemetry v0.2|Any CPU
+		eTelemetry v0.2|x64 = eTelemetry v0.2|x64
+		f1_eTelemetry debug|Any CPU = f1_eTelemetry debug|Any CPU
+		f1_eTelemetry debug|x64 = f1_eTelemetry debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5067675D-8334-418C-89D4-1376822E12DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5067675D-8334-418C-89D4-1376822E12DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5067675D-8334-418C-89D4-1376822E12DA}.Debug|x64.ActiveCfg = Debug|x64
+		{5067675D-8334-418C-89D4-1376822E12DA}.Debug|x64.Build.0 = Debug|x64
+		{5067675D-8334-418C-89D4-1376822E12DA}.eTelemetry V0.1|Any CPU.ActiveCfg = Release|x64
+		{5067675D-8334-418C-89D4-1376822E12DA}.eTelemetry V0.1|Any CPU.Build.0 = Release|x64
+		{5067675D-8334-418C-89D4-1376822E12DA}.eTelemetry V0.1|x64.ActiveCfg = Release|x64
+		{5067675D-8334-418C-89D4-1376822E12DA}.eTelemetry V0.1|x64.Build.0 = Release|x64
+		{5067675D-8334-418C-89D4-1376822E12DA}.eTelemetry v0.2|Any CPU.ActiveCfg = eTelemetry v0.2|Any CPU
+		{5067675D-8334-418C-89D4-1376822E12DA}.eTelemetry v0.2|Any CPU.Build.0 = eTelemetry v0.2|Any CPU
+		{5067675D-8334-418C-89D4-1376822E12DA}.eTelemetry v0.2|x64.ActiveCfg = Release|x64
+		{5067675D-8334-418C-89D4-1376822E12DA}.eTelemetry v0.2|x64.Build.0 = Release|x64
+		{5067675D-8334-418C-89D4-1376822E12DA}.f1_eTelemetry debug|Any CPU.ActiveCfg = Debug|x64
+		{5067675D-8334-418C-89D4-1376822E12DA}.f1_eTelemetry debug|Any CPU.Build.0 = Debug|x64
+		{5067675D-8334-418C-89D4-1376822E12DA}.f1_eTelemetry debug|x64.ActiveCfg = Debug|x64
+		{5067675D-8334-418C-89D4-1376822E12DA}.f1_eTelemetry debug|x64.Build.0 = Debug|x64
+		{5067675D-8334-418C-89D4-1376822E12DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5067675D-8334-418C-89D4-1376822E12DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5067675D-8334-418C-89D4-1376822E12DA}.Release|x64.ActiveCfg = Release|x64
+		{5067675D-8334-418C-89D4-1376822E12DA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E7A07B3-20DC-440A-BA5F-F971D493E2DD}
+	EndGlobalSection
+EndGlobal
